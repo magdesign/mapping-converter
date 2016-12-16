@@ -22,3 +22,6 @@ python parser_one_file.py > /path/to/file/surfaces.xml
 /home/pi/openFrameworks/addons/ofxPiMapper/example/bin/data/surfaces.xml
 
 Difference between the parser.py and parser_one_file.py, the later is only made for .svg with one quad inside.
+
+
+Thanks to turingmachine for the help with the basic code.
