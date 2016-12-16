@@ -5,7 +5,7 @@ Its not finished yet, but the basic concept works.<br />
 Will be a new feature for PocketVJ 3.2<br />
 
 ##Problems to solve: <br />
-- Dont know how to get the zero points, the quads size is correct, but position not, tryed to add numers like +540.... <br />
+- Dont know how to get the zero points, the quads size is correct, but position not, tryed to add numbers like +540.... <br />
 - Define if it is a quad or trianle, surface type="0" is triangle, surface type="1" is quad
 - Any help very welcome..<br />
 
@@ -21,7 +21,7 @@ python parser_one_file.py > /path/to/file/surfaces.xml
 - Then copy this file to your PiMapper, somewhere here:
 /home/pi/openFrameworks/addons/ofxPiMapper/example/bin/data/surfaces.xml
 
-Difference between the parser.py and parser_one_file.py, the later is only made for .svg with one quad inside.
+Difference between the parser.py and parser_one_file.py, the later is only made for .svg with one quad inside, parser.py is made for more than one quad, and looks for a file called slices2.svg
 
 
 Thanks to turingmachine for the help with the basic code.
