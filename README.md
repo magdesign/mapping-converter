@@ -12,7 +12,7 @@ Will be a new feature for PocketVJ 3.2<br />
 
 ##Instruction
 
-- Copy parser_on_file.py to a folder.<br />
+- Copy parser_one_file.py to a folder.<br />
 - Place a slices.svg in the same folder (I used an .svg exported from Madmapper).<br />
 - cd into your folder and run: python parser_one_file.py
 - to output a .xml filefor PiMapper, write: 
