@@ -2,20 +2,20 @@
     <surface type="1">
         <vertices>
             <vertex>
-                <x>-284.585</x>
-                <y>251.905</y>
+                <x>675.415</x>
+                <y>791.905</y>
             </vertex>
             <vertex>
-                <x>397.771</x>
-                <y>258.551</y>
+                <x>1357.771</x>
+                <y>798.551</y>
             </vertex>
             <vertex>
-                <x>477.523</x>
-                <y>-422.687</y>
+                <x>1437.523</x>
+                <y>117.313</y>
             </vertex>
             <vertex>
-                <x>-333.323</x>
-                <y>-216.659</y>
+                <x>626.677</x>
+                <y>323.341</y>
             </vertex>
         </vertices>
         <texCoords>
@@ -47,20 +47,20 @@
     <surface type="1">
         <vertices>
             <vertex>
-                <x>-323.387</x>
-                <y>204.552</y>
+                <x>636.613</x>
+                <y>744.552</y>
             </vertex>
             <vertex>
-                <x>358.968</x>
-                <y>211.198</y>
+                <x>1318.968</x>
+                <y>751.198</y>
             </vertex>
             <vertex>
-                <x>228.263</x>
-                <y>-144.383</y>
+                <x>1188.263</x>
+                <y>395.617</y>
             </vertex>
             <vertex>
-                <x>-230.343</x>
-                <y>-135.522</y>
+                <x>729.657</x>
+                <y>404.478</y>
             </vertex>
         </vertices>
         <texCoords>

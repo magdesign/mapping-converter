@@ -7,8 +7,8 @@ for path in paths[1:-1]:
         <vertices>"""
     for line in path:
         print  "            <vertex>"
-        print "                <x>" + str(line.start.real) + "</x>"
-        print "                <y>" + str(line.start.imag) + "</y>"
+        print "                <x>" + str(line.start.real+960) + "</x>"
+        print "                <y>" + str(line.start.imag+540) + "</y>"
         print  "            </vertex>"
     print """        </vertices>
         <texCoords>
