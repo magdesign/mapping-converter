@@ -93,34 +93,34 @@ font-family=".Helvetica Neue DeskInterface" font-size="10" font-weight="400" fon
 >
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1330.97,509.085)"
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1268.51,596.07)"
 font-family=".Helvetica Neue DeskInterface" font-size="10" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#ffffff" stroke-opacity="0.501961" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1330.97,509.085)"
+<g fill="none" stroke="#ffffff" stroke-opacity="0.501961" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1268.51,596.07)"
 font-family=".Helvetica Neue DeskInterface" font-size="10" font-weight="400" font-style="normal" 
 >
-<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-284.585,251.905 L397.771,258.551 L477.523,-422.687 L-333.323,-216.659 L-284.585,251.905"/>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-134.249,122.829 L651.492,483.93 L651.492,-596.07 L-426.675,-316.936 L-134.249,122.829"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1330.97,509.085)"
-font-family=".Helvetica Neue DeskInterface" font-size="10" font-weight="400" font-style="normal" 
->
-</g>
-
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,605.477,476.685)"
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1268.51,596.07)"
 font-family=".Helvetica Neue DeskInterface" font-size="10" font-weight="400" font-style="normal" 
 >
 </g>
 
-<g fill="none" stroke="#ffffff" stroke-opacity="0.501961" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,605.477,476.685)"
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,521.126,554.111)"
 font-family=".Helvetica Neue DeskInterface" font-size="10" font-weight="400" font-style="normal" 
 >
-<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-323.387,204.552 L358.968,211.198 L228.263,-144.383 L-230.343,-135.522 L-323.387,204.552"/>
 </g>
 
-<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,605.477,476.685)"
+<g fill="none" stroke="#ffffff" stroke-opacity="0.501961" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,521.126,554.111)"
+font-family=".Helvetica Neue DeskInterface" font-size="10" font-weight="400" font-style="normal" 
+>
+<path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M-521.126,525.889 L137.833,146.557 L275.185,-277.7 L-521.126,-554.111 L-521.126,525.889"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,521.126,554.111)"
 font-family=".Helvetica Neue DeskInterface" font-size="10" font-weight="400" font-style="normal" 
 >
 </g>
