@@ -6,7 +6,7 @@ Will be a new feature for PocketVJ 3.2<br />
 
 ##Problems to solve: <br />
 - The zero point must be calculated and added to the values depending on the resolution. <br />
-- Define if it is a quad or trianle, <surface type="0"> is triangle, <surface type="1"> is aquad
+- Define if it is a quad or trianle, surface type="0" is triangle, surface type="1" is aquad
 - Any help very welcome..<br />
 
 
