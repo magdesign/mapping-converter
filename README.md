@@ -5,7 +5,7 @@ Its not finished yet, but the basic concept works.<br />
 Will be a new feature for PocketVJ 3.2<br />
 
 ##Problems to solve: <br />
-- Dont know how to get the zero points, for of quads is correct, but position not.... <br />
+- Dont know how to get the zero points, the quads size is correct, but position not, tryed to add numers like +540.... <br />
 - Define if it is a quad or trianle, surface type="0" is triangle, surface type="1" is aquad
 - Any help very welcome..<br />
 
