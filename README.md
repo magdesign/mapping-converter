@@ -5,9 +5,17 @@ Its not finished yet, but the basic concept works.<br />
 Will be a new feature for PocketVJ 3.2<br />
 
 ##Problems to solve: <br />
-- Dont know how to get the zero points, the quads size is correct, but position not, tryed to add numbers like +540.... <br />
+- Dont know how to get the zero points, the quads size is correct, but position not, tryed to add numbers like x value + 960 and y value +540.... <br />
 - Define if it is a quad or trianle, surface type="0" is triangle, surface type="1" is quad
 - Any help very welcome..<br />
+
+Here you see the two masks I exported from Madmapper:
+
+![alt tag](http://url/to/img.png)
+
+and here you see how this looks then in PiMapper after converting with this tool
+
+![alt tag](http://url/to/img.png)
 
 
 ##Instruction
