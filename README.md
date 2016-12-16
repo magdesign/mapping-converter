@@ -11,11 +11,11 @@ Will be a new feature for PocketVJ 3.2<br />
 
 Here you see the two masks I exported from Madmapper:
 
-![alt tag](http://url/to/img.png)
+![alt tag](https://github.com/magdesign/mapping-converter/blob/master/screenshots/madmapper_export.jpg)
 
 and here you see how this looks then in PiMapper after converting with this tool
 
-![alt tag](http://url/to/img.png)
+![alt tag](https://github.com/magdesign/mapping-converter/blob/master/screenshots/PiMapper_import.jpg)
 
 
 ##Instruction
