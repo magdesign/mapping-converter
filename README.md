@@ -31,5 +31,6 @@ python parser_one_file.py > /path/to/file/surfaces.xml
 
 Difference between the parser.py and parser_one_file.py, the later is only made for .svg with one quad inside, parser.py is made for more than one quad, and looks for a file called slices2.svg
 
+You might need to install depencies first: pip install svgtools svgpathtools svgwrite
 
 Thanks to turingmachine for the help with the basic code.
