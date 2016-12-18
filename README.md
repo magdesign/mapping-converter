@@ -34,4 +34,4 @@ Difference between the parser.py and parser_one_file.py, the later is only made 
 
 You might need to install depencies first: pip install svgtools svgpathtools svgwrite
 
-Thanks to turingmachine for the help with the basic code.
+Thanks to turingmachine https://github.com/turingmachine for the help with the basic code.
