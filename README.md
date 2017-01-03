@@ -17,7 +17,7 @@ and here you see how this looks then in PiMapper after converting with this tool
 
 ![alt tag](https://github.com/magdesign/mapping-converter/blob/master/screenshots/PiMapper_import.jpg)
 
-the size looks the same, but the placing...
+the size looks the same, but the placing... and I guess it eats the content mirrored..
 
 ##Instruction
 
