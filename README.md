@@ -1,6 +1,6 @@
 # mapping-converter
 
-With this tool you are able to convert .svg output from video mapping software like Madmapper or Mapio to PiMapper surfaces.<br />
+With this tool you are able to convert .svg output from video mapping software like Madmapper, Mapio or Resolume to PiMapper surfaces.<br />
 Its not finished yet, but the basic concept works.<br />
 Will be a new feature for PocketVJ 3.2, hopefully...<br />
 
