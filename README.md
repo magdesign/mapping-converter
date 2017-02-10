@@ -22,12 +22,12 @@ the size looks the same, but the placing... and I guess it eats the content mirr
 ##Instruction
 
 - Copy parser_one_file.py to a folder.<br />
-- Place a slices.svg in the same folder (I used an .svg exported from Madmapper).<br />
+- Place a slices.svg (I used an .svg exported from Madmapper) in the same folder as the script.<br />
 - cd into your folder and run: python parser_one_file.py
-- to output a .xml filefor PiMapper, write: 
+- output the .xml file for PiMapper, do something like: 
 python parser_one_file.py > /path/to/file/surfaces.xml
 
-- Then copy this file to your PiMapper, somewhere here:
+- Then copy this file to your PiMapper, located somewhere here (depending where you isntalled openframeworks:
 /home/pi/openFrameworks/addons/ofxPiMapper/example/bin/data/surfaces.xml
 
 Difference between the parser.py and parser_one_file.py, the later is only made for .svg with one quad inside, parser.py is made for more than one quad, and looks for a file called slices2.svg
