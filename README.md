@@ -1,5 +1,7 @@
 # mapping-converter
 
+# This code is still not finished, but a working one was written in openframeworks available here: https://github.com/magdesign/mapping-converter2
+
 With this tool you are able to convert .svg output from video mapping software like Madmapper, Mapio or Resolume to PiMapper surfaces.<br />
 Its not finished yet, but the basic concept works.<br />
 <br />
